@@ -1,6 +1,6 @@
 # Sql-Data-Analysis
 
-**CSV Data** : raw data for **Parch&Posey** company db in csv format.
+**CSV Data** : raw data for **Parch&Posey** company db in csv format..
 
  Challenges are from **Udacity** course ["SQL for Data Analysis"](https://www.udacity.com/course/sql-for-data-analysis--ud198).
 
